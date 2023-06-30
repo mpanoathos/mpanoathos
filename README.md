@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpanoathos
-- 👀 I’m interested in programming
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on every project
 - 📫 How to reach me : athosmpano427@gmail.com
